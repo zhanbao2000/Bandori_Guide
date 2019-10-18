@@ -22,7 +22,7 @@
 
 ### 1.2 游戏安装
 #### 1.2.1 安卓用户：
-日服可以在Google Play商店直接下载https://play.google.com/store/apps/details?id=jp.co.craftegg.band
+日服可以在Google Play商店[直接下载](https://play.google.com/store/apps/details?id=jp.co.craftegg.band)
 
 ## 2. 进行演奏（ライブ）
 ### 2.1 Live前的准备
