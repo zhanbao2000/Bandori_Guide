@@ -4,6 +4,7 @@
 ## 1. 游戏服务器选择、安装与运行
 
 ### 1.1 游戏服务器选择
+
 游戏目前有以下服务器：日服、国服、国际服、台服和韩服，在安装之前先需要确认自己想要玩哪个服。笔者未使用过国际服、台服和韩服，故不对这三个服列入表格。日服和国服之间的特性在表格中展示：
 
 |特性|日服|国服|
@@ -21,8 +22,20 @@
 对日服的大陆玩家而言，网络要求略为特殊，虽然大部分情况可以直连，但仍无法确保100%稳定，最好要有一个加速器或者稳定的梯子（梯子最好支持UDP转发）。
 
 ### 1.2 游戏安装
+
 #### 1.2.1 安卓用户：
-日服可以在Google Play商店[直接下载](https://play.google.com/store/apps/details?id=jp.co.craftegg.band)
+
+日服可以在[Google Play](https://play.google.com/store/apps/details?id=jp.co.craftegg.band)直接下载（你的Google Play必须为日区，才能下载日服）。如果你不可以使用Google Play，那么你可以去[QooApp](https://apps.qoo-app.com/app/4847)或者[TapTap](https://www.tap.io/app/38284)下载。
+
+国服可以直接在B站客户端下载，或者去[B站下载页](https://www.biligame.com/detail/?id=168&sourceFrom=1112&action=1)登录后下载。亦可在[QooApp](https://apps.qoo-app.com/app/7982)或者[TapTap](https://www.tap.io/app/67848)下载。
+
+#### 1.2.2 iOS用户：
+
+下载日服需要使用日区AppStore账号，下载国服需要使用国区AppStore账号。
+
+### 1.3 游戏运行
+
+游戏运行并不需要谷歌套件，日服玩家可以直接玩，国服玩家则需要先登录bilibili账号。登录时遇到网络问题一直提示通信错误请参考[这里](#通信错误协力不能进歌曲下载缓慢协力绝赞读条等网络问题)。第一次进入游戏会提示下载数据包，根据自身情况选择精简版或者完整版数据包，笔者建议下载完整版数据包。下载完数据包后，经过一段剧情，需要输入玩家的昵称，玩家的昵称可以在日后随时随地免费更改。设置完昵称后，便进入新手教程。新手教程的测试曲为精简版的[ときめきエクスペリエンス!](https://zh.moegirl.org/%E5%BF%83%E8%B7%B3%E4%BD%93%E9%AA%8C(%E5%8D%95%E6%9B%B2)#)
 
 ## 2. 进行演奏（ライブ）
 ### 2.1 Live前的准备
